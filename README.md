@@ -15,31 +15,30 @@ File format
 * Import: The CSV format and parser are sufficiently generic to allow import into [AMBIT substances](http://apps.ideaconsult.net:8080/enanomapper/ui/uploadsubstance)
 
 ###File header
-
 ####Row	1 
-	endpointcategory. One of :
-GI_GENERAL_INFORM,PC_MELTING,PC_BOILING,PC_GRANULOMETRY,PC_VAPOUR,PC_PARTITION,PC_WATER_SOL,PC_SOL_ORGANIC,PC_NON_SATURATED_PH,PC_DISSOCIATION,AGGLOMERATION_AGGREGATION,CRYSTALLINE_PHASE,CRYSTALLITE_AND_GRAIN_SIZE,ASPECT_RATIO_SHAPE,SPECIFIC_SURFACE_AREA,ZETA_POTENTIAL,SURFACE_CHEMISTRY,DUSTINESS,POROSITY,POUR_DENSITY,PHOTOCATALYTIC_ACTIVITY,CATALYTIC_ACTIVITY,PC_UNKNOWN,TO_PHOTOTRANS_AIR,TO_HYDROLYSIS,TO_BIODEG_WATER_SCREEN,TO_BIODEG_WATER_SIM,EN_STABILITY_IN_SOIL,EN_BIOACCUMULATION,EN_BIOACCU_TERR,EN_ADSORPTION,EN_HENRY_LAW,EC_FISHTOX,EC_CHRONFISHTOX,EC_DAPHNIATOX,EC_CHRONDAPHNIATOX,EC_ALGAETOX,EC_BACTOX,EC_SEDIMENTDWELLINGTOX,EC_SOILDWELLINGTOX,EC_HONEYBEESTOX,EC_PLANTTOX,EC_SOIL_MICRO_TOX,TO_ACUTE_ORAL,TO_ACUTE_INHAL,TO_ACUTE_DERMAL,TO_SKIN_IRRITATION,TO_EYE_IRRITATION,TO_SENSITIZATION,TO_REPEATED_ORAL,TO_REPEATED_INHAL,TO_REPEATED_DERMAL,TO_GENETIC_IN_VITRO,TO_GENETIC_IN_VIVO,TO_CARCINOGENICITY,TO_REPRODUCTION,TO_DEVELOPMENTAL,UNKNOWN_TOXICITY,PROTEOMICS
+endpointcategory. One of :
 
+<table>
+<tr><td>GI_GENERAL_INFORM</td></tr><tr><td>PC_MELTING</td></tr><tr><td>PC_BOILING</td></tr><tr><td>PC_GRANULOMETRY</td></tr><tr><td>PC_VAPOUR</td></tr><tr><td>PC_PARTITION</td></tr><tr><td>PC_WATER_SOL</td></tr><tr><td>PC_SOL_ORGANIC</td></tr><tr><td>PC_NON_SATURATED_PH</td></tr><tr><td>PC_DISSOCIATION</td></tr><tr><td>AGGLOMERATION_AGGREGATION</td></tr><tr><td>CRYSTALLINE_PHASE</td></tr><tr><td>CRYSTALLITE_AND_GRAIN_SIZE</td></tr><tr><td>ASPECT_RATIO_SHAPE</td></tr><tr><td>SPECIFIC_SURFACE_AREA</td></tr><tr><td>ZETA_POTENTIAL</td></tr><tr><td>SURFACE_CHEMISTRY</td></tr><tr><td>DUSTINESS</td></tr><tr><td>POROSITY</td></tr><tr><td>POUR_DENSITY</td></tr><tr><td>PHOTOCATALYTIC_ACTIVITY</td></tr><tr><td>CATALYTIC_ACTIVITY</td></tr><tr><td>PC_UNKNOWN</td></tr><tr><td>TO_PHOTOTRANS_AIR</td></tr><tr><td>TO_HYDROLYSIS</td></tr><tr><td>TO_BIODEG_WATER_SCREEN</td></tr><tr><td>TO_BIODEG_WATER_SIM</td></tr><tr><td>EN_STABILITY_IN_SOIL</td></tr><tr><td>EN_BIOACCUMULATION</td></tr><tr><td>EN_BIOACCU_TERR</td></tr><tr><td>EN_ADSORPTION</td></tr><tr><td>EN_HENRY_LAW</td></tr><tr><td>EC_FISHTOX</td></tr><tr><td>EC_CHRONFISHTOX</td></tr><tr><td>EC_DAPHNIATOX</td></tr><tr><td>EC_CHRONDAPHNIATOX</td></tr><tr><td>EC_ALGAETOX</td></tr><tr><td>EC_BACTOX</td></tr><tr><td>EC_SEDIMENTDWELLINGTOX</td></tr><tr><td>EC_SOILDWELLINGTOX</td></tr><tr><td>EC_HONEYBEESTOX</td></tr><tr><td>EC_PLANTTOX</td></tr><tr><td>EC_SOIL_MICRO_TOX</td></tr><tr><td>TO_ACUTE_ORAL</td></tr><tr><td>TO_ACUTE_INHAL</td></tr><tr><td>TO_ACUTE_DERMAL</td></tr><tr><td>TO_SKIN_IRRITATION</td></tr><tr><td>TO_EYE_IRRITATION</td></tr><tr><td>TO_SENSITIZATION</td></tr><tr><td>TO_REPEATED_ORAL</td></tr><tr><td>TO_REPEATED_INHAL</td></tr><tr><td>TO_REPEATED_DERMAL</td></tr><tr><td>TO_GENETIC_IN_VITRO</td></tr><tr><td>TO_GENETIC_IN_VIVO</td></tr><tr><td>TO_CARCINOGENICITY</td></tr><tr><td>TO_REPRODUCTION</td></tr><tr><td>TO_DEVELOPMENTAL</td></tr><tr><td>UNKNOWN_TOXICITY</td></tr><tr><td>PROTEOMICS</td></tr></table>
 ####Row	2 
-	protocol
+protocol
 ####Row	3 
-	guideline
+guideline
 ####Row	4 
-	type_of_study
+type_of_study
 ####Row	5 
-	type_of_method
+type_of_method
 ####Row	6 
-	data_gathering_instruments
+data_gathering_instruments
 ####Row	7 
-	endpoint
+endpoint
 ####Row	8 
-	condition1
+condition1
 ####Row	9 
-	condition2
+condition2
 ####Row	10 
-	condition3
+condition3
 ####Row	11 
-	result
+result
 ####Row	12 
-	units
-
+units
