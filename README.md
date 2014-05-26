@@ -16,26 +16,28 @@ File format
 
 ###File header
 
-####Row 1
+####Row	1 
+	endpointcategory
+####Row	2 
+	protocol
+####Row	3 
+	guideline
+####Row	4 
+	type_of_study
+####Row	5 
+	type_of_method
+####Row	6 
+	data_gathering_instruments
+####Row	7 
+	endpoint
+####Row	8 
+	condition1
+####Row	9 
+	condition2
+####Row	10 
+	condition3
+####Row	11 
+	result
+####Row	12 
+	units
 
-####Row 2
-
-####Row 3
-
-####Row 4
-
-####Row 5
-
-####Row 6
-
-####Row 7
-
-####Row 8
-
-####Row 9
-
-####Row 10
-
-####Row 11
-
-####Row 12
