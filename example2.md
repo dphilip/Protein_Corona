@@ -4,7 +4,7 @@ Example file
 Defines chemicals and experiments.  Format supported by AMBIT Substance import.
 
 <table>
-<tr><td>Chemical</td><td>Chemical</td><td>External Identifier</td><td>TO_SENSITIZATION</td><td></td><td></tr>
+<tr><td>Chemical</td><td>Chemical</td><td>External Identifier</td><td></td><td>TO_SENSITIZATION</td><td></td><td></tr>
 <tr><td>Protocol</td><td></td><td></td><td></td><td>The Local Lymph Node Assay (LLNA)</td><td>The Myeloid U937 Skin Sensitization Test </td><td>Direct Peptide Reactivity Assay (DPRA)</td></tr>
 <tr><td>Guideline</td><td></td><td></td><td></td><td>OECD TG 429 Local Lymph Node Assay (LLNA)</td><td>The Myeloid U937 Skin Sensitization Test </td><td>DB ALM Protocol No.154</td></tr>
 <tr><td>type_of_study</td><td></td><td></td><td></td><td>measurement of the proliferative activity of draining lymph node cells (LNC)</td><td>CD86 cell surface marker activation </td><td>measures depletion of synthetic heptapeptides containing either cysteine or lysine</td></tr>
