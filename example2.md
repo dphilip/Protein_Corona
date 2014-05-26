@@ -10,7 +10,7 @@ Defines chemicals and experiments.  Format supported by AMBIT Substance import.
 <tr><td>type_of_study</td><td></td><td></td><td></td><td>measurement of the proliferative activity of draining lymph node cells (LNC)</td><td>CD86 cell surface marker activation </td><td>measures depletion of synthetic heptapeptides containing either cysteine or lysine</td></tr>
 <tr><td>type_of_method</td><td></td><td></td><td></td><td>in vivo</td><td>in vitro</td><td>in chemico</td></tr>
 <tr><td>data_gathering_instruments</td><td></td><td></td><td></td><td>LLNA potency</td><td>Fluorescence</td><td>High-performance liquid chromatography</td></tr>
-<tr><td>Endpoint</td><td>SMILES</td><td>CASRN</td><td>Number in Bayesian networks</td><td>LLNA </td><td>EC150</td><td>DPRACys</td></tr>
+<tr><td>Endpoint</td><td>SMILES</td><td>CASRN</td><td>Some property</td><td>LLNA </td><td>EC150</td><td>DPRACys</td></tr>
 <tr><td>Target gene</td><td></td><td></td><td></td><td></td><td>CD86</td><td></td></tr>
 <tr><td>Species</td><td></td><td></td><td></td><td>Murinae</td><td>U-937 cell</td><td></td></tr>
 <tr><td>Dose</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
