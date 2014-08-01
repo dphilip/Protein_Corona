@@ -59,4 +59,8 @@ Examples
 * [Chemicals, experiments](example2.md)
 
 
+API to use for upload to AMBIT
+----
+
+ See [Substance resource](https://github.com/ideaconsult/examples-ambit/blob/master/ambit-json-docs/substance.md)
 
