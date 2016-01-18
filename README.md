@@ -9,7 +9,7 @@ http://pubs.acs.org/doi/abs/10.1021/nn406018q
 File format 
 ==============
 
-### Note: this 12-line header parser is deprecated in favour of more flexible Excel parser https://github.com/enanomapper/nmdataparser 
+### Note: this 12-line header parser is deprecated in favour of more flexible Excel parser https://github.com/enanomapper/nmdataparser and [XLSX+JSON](https://apps.ideaconsult.net/enanomapper/ui/uploadsubstance1) upload
 
 * The file [MergetSheets.csv](https://github.com/ideaconsult/Protein_Corona/blob/master/MergedSheets.csv) contains all nanoparticles and related experiments from the above paper
 * Format: Comma separated, with 12 header lines
